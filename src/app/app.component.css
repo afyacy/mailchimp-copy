@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #FFE01B !important;
+    font-size: medium;
+    font-weight: 600;
+}
+.navbar 
+.row{
+    margin: 0 !important;
+}
+a{
+    color: rgb(27, 27, 27) !important;
+}
+.loginbtn{
+    border: 2px solid black;
+    padding: 9px 30px;
+}
+.loginbtn:hover{
+    background-color: rgb(240, 233, 233);
+}
+.signupfreebtn{
+    background-color: #007C89;
+    color: white;
+    padding: 10px 16px;
+}
+.signupfreebtn:hover{
+    background-color: #004e56;
+}
+footer{
+    padding: 7rem 0rem 5rem 0rem;
+    background: #EFEEEA;
+}

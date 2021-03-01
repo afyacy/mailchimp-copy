@@ -1,0 +1,91 @@
+a{
+    text-decoration: none;
+}
+.jumbotron1{
+    background: #FFE01B !important;
+}
+.pickaplan{
+    background-color: #007C89;
+    color: white;
+    padding: 10px 16px;
+}
+.pickaplan:hover{
+    background-color: #004e56;
+}
+.contendbbg{
+    background: rgb(64,59,59);
+    height: 70%;
+    color: white;
+    padding: 0px 3rem;
+}
+.contendbbg a{
+    color: #FFE01B !important;
+}
+.mbrem{
+    margin-bottom: 9rem;
+}
+.mbrem a{
+    color: #007C89;
+}
+.growwm{
+    text-align: center;
+}
+.jumbotron2{
+    background: #F6F6F4;
+}
+.keepp h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.jumbotron3{
+    background: #FBEECA;
+    height: 2920px;
+    margin-bottom: 25rem;
+}
+.jumbotron3 h1{
+    text-align: center;
+    padding: 9rem 5rem;
+    font-size: 3.375rem;
+}
+.upto6{
+    text-align: center;
+}
+.sasb{
+    background: #007C89;
+    color: white;
+}
+.mcbc{
+    height: 25rem;
+    text-align: center;
+}
+.mcbct{
+    margin-bottom: 20rem;
+}
+.rgyit{
+    text-align: center;
+    margin-bottom: 9rem;
+}
+.cb8{
+    background: #F9E0FA;
+    align-items: center;
+    text-align: center;
+}
+.bc1{
+    border: 2px solid black;
+}
+.cat9{
+    margin-bottom: 1rem;
+}
+.bc2{
+    background-image: url("/assets/images/Staying_Resilient_in_2021.jpg");
+}
+.cat10{
+    margin-bottom: 9rem;
+}
+.cat11{
+    background: #FFE01B;
+    text-align: center;
+    padding: 8rem 0rem;
+}
